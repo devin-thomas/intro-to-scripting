@@ -10,7 +10,6 @@ The original submissions are preserved as Word documents in `docs/original-submi
 - Course: Intro to Scripting Languages
 - Term completed: Summer 2024
 - Institution: Alamo Colleges
-- Campus note: the document metadata lists `SAC, NVC`, so the repo uses Alamo Colleges rather than choosing one campus.
 
 ## What This Shows
 
